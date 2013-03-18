@@ -3,7 +3,7 @@
 	<DataSet name="Model Images" table="t_image" filter="Name='#Name#'" stoplist=";ImageID;">
 		<DataRow>
 			<Column name="ImageID" value="1113993974"/>
-			<Column name="Name" value="Aggregator"/>
+			<Column name="Name" value="[EIP] Aggregator"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEA3AsAAGQA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -65,7 +65,7 @@ AAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="836144801"/>
-			<Column name="Name" value="Blank"/>
+			<Column name="Name" value="[EIP] Blank"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAzAMAACAA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -89,7 +89,7 @@ AAAAAAAABQAAACgAAAAMAAAAAgAAACgAAAAMAAAAAwAAAA4AAAAUAAAAAAAAABAAAAAUAAAA
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="572561671"/>
-			<Column name="Name" value="Channel Adapter"/>
+			<Column name="Name" value="[EIP] Channel Adapter"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEA+H4AAB4E
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -696,7 +696,7 @@ AAAFAAAAKAAAAAwAAAACAAAAKAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1579997029"/>
-			<Column name="Name" value="Channel Purger"/>
+			<Column name="Name" value="[EIP] Channel Purger"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEAgMsAADgG
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -1666,7 +1666,7 @@ DAAAAAIAAAAoAAAADAAAAAMAAAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1551625057"/>
-			<Column name="Name" value="Channel"/>
+			<Column name="Name" value="[EIP] Channel"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEAHH0AAPsD
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2265,7 +2265,7 @@ AAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="491039757"/>
-			<Column name="Name" value="Claim Check"/>
+			<Column name="Name" value="[EIP] Claim Check"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAdCwAAKsA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2481,7 +2481,7 @@ DAAAAAIAAAAoAAAADAAAAAMAAAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1817039011"/>
-			<Column name="Name" value="Command Message"/>
+			<Column name="Name" value="[EIP] Command Message"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAwAAACcAAAA3AAAAAAAAAAAAAABDAwAAgQQAACBFTUYAAAEAEA4AAEEA
 AAAGAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2553,7 +2553,7 @@ AwAAACgAAAAMAAAABQAAAA4AAAAUAAAAAAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1435655340"/>
-			<Column name="Name" value="Competing Consumers"/>
+			<Column name="Name" value="[EIP] Competing Consumers"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEAjBIAAKIA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2646,7 +2646,7 @@ AAAFAAAAKAAAAAwAAAACAAAAKAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="607231941"/>
-			<Column name="Name" value="Composed Message Processor"/>
+			<Column name="Name" value="[EIP] Composed Message Processor"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEASBAAAIoA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2729,7 +2729,7 @@ AAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1892389109"/>
-			<Column name="Name" value="Content Based Router"/>
+			<Column name="Name" value="[EIP] Content Based Router"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEAwA4AAGEA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2804,7 +2804,7 @@ AAAFAAAAKAAAAAwAAAACAAAAKAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="507957092"/>
-			<Column name="Name" value="Content Enricher"/>
+			<Column name="Name" value="[EIP] Content Enricher"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEA7AgAAEwA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2852,7 +2852,7 @@ FAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1994378588"/>
-			<Column name="Name" value="Content Filter"/>
+			<Column name="Name" value="[EIP] Content Filter"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEA7AgAAEwA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2900,7 +2900,7 @@ FAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="945347701"/>
-			<Column name="Name" value="Control Bus"/>
+			<Column name="Name" value="[EIP] Control Bus"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEAfBMAAGUA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -2998,7 +2998,7 @@ DgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="761807678"/>
-			<Column name="Name" value="Correlation ID"/>
+			<Column name="Name" value="[EIP] Correlation ID"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEA2BoAAJEA
 AAAGAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -3131,7 +3131,7 @@ AAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="367613071"/>
-			<Column name="Name" value="Datatype Channel"/>
+			<Column name="Name" value="[EIP] Datatype Channel"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEAvIEAACEE
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -3752,7 +3752,7 @@ AAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="560245367"/>
-			<Column name="Name" value="Dead Letter Channel"/>
+			<Column name="Name" value="[EIP] Dead Letter Channel"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEAfAgAAEcA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -3798,7 +3798,7 @@ AAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="889908808"/>
-			<Column name="Name" value="Detour"/>
+			<Column name="Name" value="[EIP] Detour"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGoAAABCAAAAAAAAAAAAAABrCAAASQUAACBFTUYAAAEALBgAAFwA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -3918,7 +3918,7 @@ KAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1823011057"/>
-			<Column name="Name" value="Document Message"/>
+			<Column name="Name" value="[EIP] Document Message"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAwAAACYAAAA3AAAAAAAAAAAAAAA6AwAAkQQAACBFTUYAAAEA1AwAAD8A
 AAAGAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -3984,7 +3984,7 @@ KAAAAAwAAAADAAAAKAAAAAwAAAAFAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="132699540"/>
-			<Column name="Name" value="Durable Subscriber"/>
+			<Column name="Name" value="[EIP] Durable Subscriber"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAABkAAKgA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -4108,7 +4108,7 @@ DAAAAAMAAAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="912174494"/>
-			<Column name="Name" value="Envelope Wrapper"/>
+			<Column name="Name" value="[EIP] Envelope Wrapper"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAEAcAADwA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -4147,7 +4147,7 @@ AAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1597522990"/>
-			<Column name="Name" value="Event Message"/>
+			<Column name="Name" value="[EIP] Event Message"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAwAAACYAAAA3AAAAAAAAAAAAAAA6AwAAkQQAACBFTUYAAAEAEA0AAEEA
 AAAGAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -4214,7 +4214,7 @@ AAACAAAAKAAAAAwAAAADAAAAKAAAAAwAAAAFAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="622165450"/>
-			<Column name="Name" value="Event-Driven Consumer"/>
+			<Column name="Name" value="[EIP] Event-Driven Consumer"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABBAAAAAAAAAAAAAABwCAAAPAUAACBFTUYAAAEAlAoAAFwA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -4270,7 +4270,7 @@ EAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="942625944"/>
-			<Column name="Name" value="Guaranteed Delivery"/>
+			<Column name="Name" value="[EIP] Guaranteed Delivery"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAzIAAABME
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -4886,7 +4886,7 @@ KAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1324916118"/>
-			<Column name="Name" value="Invalid Message Channel"/>
+			<Column name="Name" value="[EIP] Invalid Message Channel"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEA5A4AAFEA
 AAAGAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -4962,7 +4962,7 @@ KAAAAAwAAAAFAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="2039251518"/>
-			<Column name="Name" value="Message Branch"/>
+			<Column name="Name" value="[EIP] Message Branch"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAwAAABwAAAAlAAAAAAAAAAAAAABsAgAAIAMAACBFTUYAAAEAmAQAACcA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -4989,7 +4989,7 @@ AAAMAAAAAgAAACgAAAAMAAAAAwAAAA4AAAAUAAAAAAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1570679529"/>
-			<Column name="Name" value="Message Bus"/>
+			<Column name="Name" value="[EIP] Message Bus"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAtBMAAK4A
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -5088,7 +5088,7 @@ AAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1701671232"/>
-			<Column name="Name" value="Message Dispatcher"/>
+			<Column name="Name" value="[EIP] Message Dispatcher"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABBAAAAAAAAAAAAAABwCAAAPAUAACBFTUYAAAEAMBQAALAA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -5189,7 +5189,7 @@ AAACAAAAKAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1334583375"/>
-			<Column name="Name" value="Message Endpoint"/>
+			<Column name="Name" value="[EIP] Message Endpoint"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABBAAAAAAAAAAAAAABwCAAAPAUAACBFTUYAAAEAEAgAAEUA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -5233,7 +5233,7 @@ AAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1883602144"/>
-			<Column name="Name" value="Message Filter"/>
+			<Column name="Name" value="[EIP] Message Filter"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAWKcAAEQF
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -6032,7 +6032,7 @@ AAAUAAAAAAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="204841177"/>
-			<Column name="Name" value="Message Router"/>
+			<Column name="Name" value="[EIP] Message Router"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAwA4AAGEA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -6107,7 +6107,7 @@ AAAFAAAAKAAAAAwAAAACAAAAKAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="835583633"/>
-			<Column name="Name" value="Message Sequence"/>
+			<Column name="Name" value="[EIP] Message Sequence"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAQBYAAJYA
 AAAHAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -6218,7 +6218,7 @@ AAAFAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="708785289"/>
-			<Column name="Name" value="Message Store"/>
+			<Column name="Name" value="[EIP] Message Store"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAeJYAALwE
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -6937,7 +6937,7 @@ AAAUAAAAAAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1981752141"/>
-			<Column name="Name" value="Message Translator"/>
+			<Column name="Name" value="[EIP] Message Translator"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAfAgAAEgA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -6983,7 +6983,7 @@ AAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1546606538"/>
-			<Column name="Name" value="Message"/>
+			<Column name="Name" value="[EIP] Message"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAwAAACYAAAA3AAAAAAAAAAAAAAA6AwAAkQQAACBFTUYAAAEA0AgAADcA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7030,7 +7030,7 @@ AAAMAAAAAgAAACgAAAAMAAAAAwAAAA4AAAAUAAAAAAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1103270896"/>
-			<Column name="Name" value="Messaging Bridge"/>
+			<Column name="Name" value="[EIP] Messaging Bridge"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEADAsAAFgA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7088,7 +7088,7 @@ DgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="4788483"/>
-			<Column name="Name" value="Messaging Gateway"/>
+			<Column name="Name" value="[EIP] Messaging Gateway"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABBAAAAAAAAAAAAAABwCAAAPAUAACBFTUYAAAEAtAkAAFMA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7140,7 +7140,7 @@ AAAAAAAABQAAACgAAAAMAAAAAgAAACgAAAAMAAAAAwAAAA4AAAAUAAAAAAAAABAAAAAUAAAA
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1115148710"/>
-			<Column name="Name" value="Normalizer"/>
+			<Column name="Name" value="[EIP] Normalizer"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAHA4AAGoA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7212,7 +7212,7 @@ BQAAACgAAAAMAAAAAgAAACgAAAAMAAAAAwAAAA4AAAAUAAAAAAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="357567086"/>
-			<Column name="Name" value="Polling Consumer"/>
+			<Column name="Name" value="[EIP] Polling Consumer"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABBAAAAAAAAAAAAAABwCAAAPAUAACBFTUYAAAEARBEAAHUA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7299,7 +7299,7 @@ AAAoAAAADAAAAAIAAAAoAAAADAAAAAMAAAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="599190607"/>
-			<Column name="Name" value="Process Manager"/>
+			<Column name="Name" value="[EIP] Process Manager"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAVBEAAIUA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7387,7 +7387,7 @@ EAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1238591459"/>
-			<Column name="Name" value="Publish-Subscribe Channel"/>
+			<Column name="Name" value="[EIP] Publish-Subscribe Channel"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAlAwAAG8A
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7452,7 +7452,7 @@ AAAoAAAADAAAAAMAAAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1601285741"/>
-			<Column name="Name" value="Recipient List"/>
+			<Column name="Name" value="[EIP] Recipient List"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAjA8AAGgA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7531,7 +7531,7 @@ AAACAAAAKAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1665102421"/>
-			<Column name="Name" value="Request Reply"/>
+			<Column name="Name" value="[EIP] Request Reply"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAGAwAAGgA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7594,7 +7594,7 @@ AAAUAAAAAAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="768051903"/>
-			<Column name="Name" value="Resequencer"/>
+			<Column name="Name" value="[EIP] Resequencer"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAHEAAABBAAAAAAAAAAAAAAD8CAAAPAUAACBFTUYAAAEAzA4AAHwA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7670,7 +7670,7 @@ EAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="318282219"/>
-			<Column name="Name" value="Return Address"/>
+			<Column name="Name" value="[EIP] Return Address"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAcAwAAGYA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7735,7 +7735,7 @@ AA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="949238754"/>
-			<Column name="Name" value="Routing Slip"/>
+			<Column name="Name" value="[EIP] Routing Slip"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEASBYAALwA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7846,7 +7846,7 @@ AAAoAAAADAAAAAMAAAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1336783729"/>
-			<Column name="Name" value="Selective Consumer"/>
+			<Column name="Name" value="[EIP] Selective Consumer"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABBAAAAAAAAAAAAAABwCAAAPAUAACBFTUYAAAEAfBMAAHYA
 AAAGAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -7944,7 +7944,7 @@ DgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="833999288"/>
-			<Column name="Name" value="Service Activator"/>
+			<Column name="Name" value="[EIP] Service Activator"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABBAAAAAAAAAAAAAABwCAAAPAUAACBFTUYAAAEAcAwAAGwA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -8009,7 +8009,7 @@ AA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1055282601"/>
-			<Column name="Name" value="Splitter"/>
+			<Column name="Name" value="[EIP] Splitter"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEA3AsAAGQA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -8071,7 +8071,7 @@ AAAAABAAAAAUAAAA</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1602054312"/>
-			<Column name="Name" value="Test Message"/>
+			<Column name="Name" value="[EIP] Test Message"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAHEAAABBAAAAAAAAAAAAAAD8CAAAPAUAACBFTUYAAAEADA4AAGgA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -8143,7 +8143,7 @@ KAAAAAwAAAADAAAADgAAABQAAAAAAAAAEAAAABQAAAA=</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="2040619334"/>
-			<Column name="Name" value="Transactional Client"/>
+			<Column name="Name" value="[EIP] Transactional Client"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAADAAAAAgAAAGoAAABBAAAAAAAAAAAAAABwCAAAPAUAACBFTUYAAAEAOA4AAFUA
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
@@ -8216,7 +8216,7 @@ AAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column>
 		</DataRow>
 		<DataRow>
 			<Column name="ImageID" value="1070896139"/>
-			<Column name="Name" value="Wire Tap"/>
+			<Column name="Name" value="[EIP] Wire Tap"/>
 			<Column name="Type" value="Metafile"/>
 			<Column name="Image" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">AQAAAGwAAAACAAAAAgAAAGkAAABBAAAAAAAAAAAAAABcCAAAPAUAACBFTUYAAAEAyAkAAE4A
 AAAFAAAAAAAAAAAAAAAAAAAAQAYAAIQDAABAAQAAtAAAAAAAAAAAAAAAAAAAAADiBAAgvwIA
