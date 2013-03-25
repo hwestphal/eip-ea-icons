@@ -12,7 +12,7 @@ Download
 --------
 
 * [Image Library](https://raw.github.com/hwestphal/eip-ea-icons/master/EIP_Image_Library.xml)
-* [Project Template](https://raw.github.com/hwestphal/eip-ea-icons/master/EIP_Project.eap)(with image library already imported)
+* [Project Template](https://raw.github.com/hwestphal/eip-ea-icons/master/EIP_Project.eap) (with image library already imported)
 
 Screenshot
 ----------
