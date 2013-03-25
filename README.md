@@ -7,3 +7,5 @@ and ready-to-use Enterprise Architect image library.
 
 For importing this image library, please consult the 
 [EA documentation](http://www.sparxsystems.com/resources/image_library.html).
+
+![Screenshot](https://raw.github.com/hwestphal/eip-ea-icons/master/Screenshot.png)
